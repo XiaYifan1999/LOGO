@@ -1,6 +1,6 @@
 # LOcality-guided Global-preserving Optimization (LOGO)
 
-Code implementation of our IEEE TIP paper 'Locality-guided Global-preserving Optimization for Robust Feature Matching'. In Press.
+Code implementation of our IEEE TIP paper 'Locality-guided Global-preserving Optimization for Robust Feature Matching'. 
 
 # Usage
 
