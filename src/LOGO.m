@@ -34,7 +34,7 @@ end
 
 [x0, A] = LOGO_LAC(X,Y);  
 
-lambda=0.6;
+lambda=0.8;
 
 x = LOGO_Gopt(x0,A,lambda);
 
